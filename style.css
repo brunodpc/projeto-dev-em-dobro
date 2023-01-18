@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+
+.cabeçalho {
+    grid: flex;
+    
+}
+.logo {
+   height: 50px;
+}
+.menu {
+    text-align: right;
+    
+
+}
+p {
+    font-family: 'Poppins', sans-serif;
+}
